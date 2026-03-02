@@ -1,0 +1,13 @@
+{
+  "name": "rubynor-plugins",
+  "owner": {
+    "name": "Rubynor"
+  },
+  "plugins": [
+    {
+      "name": "stemplin-plugin",
+      "source": "./plugins/stemplin-plugin",
+      "description": "Adds a /stemplin skill for quick time tracker functions"
+    }
+  ]
+}
